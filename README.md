@@ -1,4 +1,7 @@
 <h2>Welcome to My Personal Resume Website</h2>
+
+<a href = https://usayd-l.github.io/my-resume/>View Here</a>
+
 <h3>This website is a digital representation of my professional experience and qualifications. It includes information about my education, work experience, skills, and achievements.</h3>
 
 <h5>Features</h5>
